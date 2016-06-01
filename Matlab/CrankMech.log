@@ -1,0 +1,273 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.27)  7 APR 2016 14:41
+entering extended mode
+**CrankMech.tex
+(CrankMech.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (CrankMech.aux
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen114
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks17
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: heightrounded 
+* h-part:(L,W,R)=(0.0pt, 56.9055pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 85.35826pt, 0.0pt)
+* \paperwidth=56.9055pt
+* \paperheight=85.35826pt
+* \textwidth=56.9055pt
+* \textheight=82.0pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(CrankMech1.pdf_tex <CrankMech1.pdf, id=1, page=1, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 1>
+Package pdftex.def Info: CrankMech1.pdf, page1 used on input line 52.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 53.
+
+<CrankMech1.pdf, id=2, page=2, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 2>
+Package pdftex.def Info: CrankMech1.pdf, page2 used on input line 54.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+
+<CrankMech1.pdf, id=3, page=3, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 3>
+Package pdftex.def Info: CrankMech1.pdf, page3 used on input line 56.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+
+<CrankMech1.pdf, id=4, page=4, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 4>
+Package pdftex.def Info: CrankMech1.pdf, page4 used on input line 58.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+
+<CrankMech1.pdf, id=5, page=5, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 5>
+Package pdftex.def Info: CrankMech1.pdf, page5 used on input line 60.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+
+<CrankMech1.pdf, id=6, page=6, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 6>
+Package pdftex.def Info: CrankMech1.pdf, page6 used on input line 62.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+
+<CrankMech1.pdf, id=7, page=7, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 7>
+Package pdftex.def Info: CrankMech1.pdf, page7 used on input line 66.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+
+<CrankMech1.pdf, id=8, page=8, 113.81102pt x 170.71654pt>
+File: CrankMech1.pdf Graphic file (type pdf)
+
+<use CrankMech1.pdf, page 8>
+Package pdftex.def Info: CrankMech1.pdf, page8 used on input line 68.
+(pdftex.def)             Requested size: 56.9055pt x 85.35805pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 69--11
+
+ []
+
+
+LaTeX Warning: Float too large for page by 15.35825pt on input line 11.
+
+[1{C:/Users/yum/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./CrankMech
+1.pdf> <./CrankMech1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./CrankMech1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+> <./CrankMech1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./CrankMech1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+> <./CrankMech1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./CrankMech1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+> <./CrankMech1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./CrankMech1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+> <./CrankMech1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./CrankMech1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+> <./CrankMech1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./CrankMech1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+> <./CrankMech1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./CrankMech1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+>] (CrankMech.aux) ) 
+Here is how much of TeX's memory you used:
+ 2092 strings out of 493673
+ 27533 string characters out of 3143965
+ 94097 words of memory out of 3000000
+ 5467 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,8n,35p,240b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb>
+Output written on CrankMech.pdf (1 page, 31431 bytes).
+PDF statistics:
+ 28 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

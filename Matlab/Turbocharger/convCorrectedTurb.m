@@ -1,0 +1,13 @@
+    function [mDotCorr, ER, effIs] = ...
+        convCorrectedTurb(mDot,pIn,pOut,TIn,TOut,FIn)
+mDotCorr = mDot./(pIn/1e3).*sqrt(TIn);
+ER = pIn./pOut;
+[~,hIn,~,~,~,~,~,~,~,~,~,~,~,CpIn,~,KIn] = ...
+    GetThdynCombGasZachV1(pIn,TIn,FIn,0.0683);
+[~,hOut,~,~,~,~,~,~,~,~,~,~,~,CpOut,~,~] = ...
+    GetThdynCombGasZachV1(pOut,TOut,FIn,0.0683);
+TIs = TIn.*ER.^((1-KIn)./KIn);
+[~,hOutIs,~,~,~,~,~,~,~,~,~,~,~,~,~,~] = ...
+    GetThdynCombGasZachV1(pOut,TIs,FIn,0.0683);
+
+effIs = (hIn - hOut)./(hIn - hOutIs);
